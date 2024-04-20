@@ -1,4 +1,4 @@
-### Hi, my name is Mateo Gomez, 👋
+### Hi, my name is Mateo Gomez, programing is part of my life, but my favorite part or hobby is when i testing my code or friends code i really enjoy solving bugs, anyware i specialized in the Backend and Databases 👋
 
 <!--
 **gomezteo1/gomezteo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
